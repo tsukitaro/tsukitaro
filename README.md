@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Dylan
 
 
-🌱 I’m currently learning new technologies and lua
+🌱 I’m currently learning Java & new technologies 
 
 ⚡ Fun fact: I love the editors, in special vim/neovim
 <!--
