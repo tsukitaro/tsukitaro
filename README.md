@@ -3,8 +3,8 @@
 
 I’m currently learning typescript & vue.js
 
-⚡ Fun fact: I love the editors, in special vim/neovim
-
+⚡ Fun fact: I love the editors, in special vim/neovim, java, vba
+ 
 
     
 <!--
